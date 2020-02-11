@@ -1,6 +1,6 @@
 # Foundational (background)
 
-***Fair Play***
+***[Fair Play](https://www.amazon.com/gp/product/1597971537/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1597971537&linkId=29596fcddc7ca7bc8988ee8d39f8c110)***
 Olson, James
 
 ***The Secret World***
