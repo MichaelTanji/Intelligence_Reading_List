@@ -11,7 +11,7 @@ Mitrokhin, Vasili
 
 # Skills
 
-***[Thinker's Toolkit}(https://www.amazon.com/gp/product/0812928083/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812928083&linkId=7ff85516a1d506adf5f909a5b637e379)***
+***[Thinker's Toolkit](https://www.amazon.com/gp/product/0812928083/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812928083&linkId=7ff85516a1d506adf5f909a5b637e379)***
 Jones, Morgan
 
 If you can only get one book to teach you how to think like an analyst and perform core analytic functions, it should be this one. It isn't an "intelligence" book *per se* but the techniques would be familiar to anyone who has received formal intelligence training.
