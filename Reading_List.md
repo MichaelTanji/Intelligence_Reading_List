@@ -1,11 +1,9 @@
 # Foundational (background)
 
 ***Fair Play***
-
 Olson, James
 
 ***The Secret World***
-
 Andrew, Christoer
 
 ***The Sword and the Shield***
