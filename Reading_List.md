@@ -6,113 +6,113 @@ Olson, James
 ***The Secret World***
 Andrew, Christoer
 
-The Sword and the Shield
+***The Sword and the Shield***
 Mitrokhin, Vasili
 
 # Skills
 
-Intelligence Analysis: A Target Centric Approach
+***Intelligence Analysis: A Target Centric Approach***
 Clark
 
-Intelligence Analysis
+***Intelligence Analysis***
 Clark
 
-Structured Analytic Techniques for Intelligence Analysis
+***Structured Analytic Techniques for Intelligence Analysis***
 X
 
-Deception: Counterdeception and Counterintelligence
+***Deception: Counterdeception and Counterintelligence***
 Clark
 
 # HUMINT
 
-Spymistress
+***Spymistress***
 Stephenson, William
 
-A Man Called Intrepid
+***A Man Called Intrepid***
 Stevenson, William
 
-The Billion Dollar Spy
+***The Billion Dollar Spy***
 Hoffman, David
 
 # SIGINT
 
-Code Warriors
+***Code Warriors***
 Budiansky, Stephen
 
-American Cryptology During the Cold War
+***American Cryptology During the Cold War***
 Johnson, Thomas
 
-Between Silk and Cyanide
+***Between Silk and Cyanide***
 Marks, Leo
 
-Code Girls
+***Code Girls***
 Mundy, Liza
 
-The Code Breakers
+***The Code Breakers***
 Kahn, David
 
-The Puzzle Palace
+***The Puzzle Palace***
 Bamford, James
 
-Body of Secrets
+***Body of Secrets***
 Bamford, James
 
 
 # Counterintelligence
 
-Operation Solo
+***Operation Solo***
 Barron, John
 
-To Catch A Spy
+***To Catch A Spy***
 Olson, James
 
-Molehunt: The Secret Search for Traitors that Shattered the CIA
+***Molehunt: The Secret Search for Traitors that Shattered the CIA***
 Wise, David
 
-Traitors Among Us
+***Traitors Among Us***
 Herrington, Stuart
 
-Cassidy’s Run
+***Cassidy’s Run***
 Wise, David
 
-Capturing Johnathan Pollard
+***Capturing Johnathan Pollard***
 Olive, Ronald
 
-I Pledge Allegiance
+***I Pledge Allegiance***
 Blum, Howard
 
-Confessions of a Spy
+***Confessions of a Spy***
 Early, Pete
 
-The Spy Who Got Away
+***The Spy Who Got Away***
 Wise, David
 
-The Spy in the Russian Club
+***The Spy in the Russian Club***
 Kessler, Ronald
 
-Spy
+***Spy***
 Wise, David
 
-Tiger Trap
+***Tiger Trap***
 Wise, David
 
-The Moscow Rules
+***The Moscow Rules***
 Mendez, Antonio
 
-The Main Enemy
+***The Main Enemy***
 Bearden, Milton; Risen, James
 
-True Believer
+***True Believer***
 Carmichael, Scott
 
-KGB
+***KGB***
 Andrew, Christopher; Gordievsky, Oleg
 
-Man Without a Face
+***Man Without a Face***
 Wolf, Markus, McElvoy, Anne
 
-Spymaster
+***Spymaster***
 Kalugin, Oleg
 
-Cold Warrior
+***Cold Warrior***
 Mangold, Tom
