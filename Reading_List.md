@@ -3,63 +3,63 @@
 ***[Fair Play](https://www.amazon.com/gp/product/1597971537/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1597971537&linkId=29596fcddc7ca7bc8988ee8d39f8c110)***
 Olson, James
 
-***[The Secret World]()***
+***[The Secret World](https://www.amazon.com/gp/product/0300248296/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0300248296&linkId=6dc7ea9379157f67311b45871b4b02a7)***
 Andrew, Christoer
 
-***[The Sword and the Shield]()***
+***[The Sword and the Shield](https://www.amazon.com/gp/product/0465003125/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465003125&linkCode=as2&tag=hafofthespe-20&linkId=d5d697d8e697fce2f9d1c45b82734884)***
 Mitrokhin, Vasili
 
 # Skills
 
-***[Thinker's Toolkit}***(https://www.amazon.com/gp/product/0812928083/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812928083&linkId=7ff85516a1d506adf5f909a5b637e379)
+***[Thinker's Toolkit}(https://www.amazon.com/gp/product/0812928083/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812928083&linkId=7ff85516a1d506adf5f909a5b637e379)***
 Jones, Morgan
 
 If you can only get one book to teach you how to think like an analyst and perform core analytic functions, it should be this one. It isn't an "intelligence" book *per se* but the techniques would be familiar to anyone who has received formal intelligence training.
 
-***[Intelligence Analysis: A Target Centric Approach]()***
+***[Intelligence Analysis: A Target Centric Approach](https://www.amazon.com/gp/product/154436914X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=154436914X&linkId=327492438b72b861c36c4595fca8c0f6)***
 Clark
 
 ***[Intelligence Analysis]()***
 Clark
 
-***[Structured Analytic Techniques for Intelligence Analysis]()***
+***[Structured Analytic Techniques for Intelligence Analysis](https://www.amazon.com/gp/product/1452241511/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1452241511&linkId=56d2292f96b538408d945de313913398)***
 Heuer, Richards; Pherson, Randolph
 
-***[Deception: Counterdeception and Counterintelligence]()***
+***[Deception: Counterdeception and Counterintelligence](https://www.amazon.com/gp/product/1506375235/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1506375235&linkId=95c0209c2d8a07ad135bed23a32fa81c)***
 Clark
 
 # HUMINT
 
-***[Spymistress]()***
+***[Spymistress](https://www.amazon.com/gp/product/1611452317/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1611452317&linkId=6197b075e821ef3b30931d5cf4b6d34d)***
 Stephenson, William
 
-***[A Man Called Intrepid]()***
+***[A Man Called Intrepid](https://www.amazon.com/gp/product/B00V9QVE5O/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00V9QVE5O&linkId=7f90873fad99840160b867783a624962)***
 Stevenson, William
 
-***[The Billion Dollar Spy]()***
+***[The Billion Dollar Spy](https://www.amazon.com/gp/product/0345805976/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345805976&linkId=c88b2a76e30238401fc3bab3955551a7)***
 Hoffman, David
 
 # SIGINT
 
-***[Code Warriors]()***
+***[Code Warriors](https://www.amazon.com/gp/product/0385352662/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385352662&linkId=212519cc4b0278709fea545c31e1b9bb)***
 Budiansky, Stephen
 
 ***[American Cryptology During the Cold War]()***
 Johnson, Thomas
 
-***[Between Silk and Cyanide]()***
+***[Between Silk and Cyanide](https://www.amazon.com/gp/product/068486780X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=068486780X&linkId=606ae59c46f5eafc9cbaaa81ae617ad3)***
 Marks, Leo
 
-***[Code Girls]()***
+***[Code Girls](https://www.amazon.com/gp/product/0316352543/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316352543&linkId=95249de8a46e28382715f4cbba61f1cb)***
 Mundy, Liza
 
-***[The Code Breakers]()***
+***[The Code Breakers](https://www.amazon.com/gp/product/0684831309/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684831309&linkId=14a437184ddf32fea222e1b468e64807)***
 Kahn, David
 
-***[The Puzzle Palace]()***
+***[The Puzzle Palace](https://www.amazon.com/gp/product/0140067485/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140067485&linkId=9bcfcebc87959e7b61832250d5da01c2)***
 Bamford, James
 
-***[Body of Secrets]()***
+***[Body of Secrets](https://www.amazon.com/gp/product/0385499086/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385499086&linkId=20720aa840b0e21afd4059c2e00b7f42)***
 Bamford, James
 
 
