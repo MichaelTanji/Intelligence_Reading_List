@@ -19,8 +19,12 @@ If you can only get one book to teach you how to think like an analyst and perfo
 ***[Intelligence Analysis: A Target Centric Approach](https://www.amazon.com/gp/product/154436914X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=154436914X&linkId=327492438b72b861c36c4595fca8c0f6)***
 Clark
 
-***[Intelligence Analysis]()***
+Excellent text on applying analytic skills and methods against adversaries and analytic problems.
+
+***[Intelligence Analysis: Estimation and Prediction](https://www.amazon.com/gp/product/1561673072/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1561673072&linkId=5b5b2694773183c3b798a97fbf9f49c6)***
 Clark
+
+The go-to text on the practices most associate with "intelligence" work; trying to determine what's going to happen in the future. A solid grounding in the techniques used to develop well-reasoned and justifiable forecasts.
 
 ***[Structured Analytic Techniques for Intelligence Analysis](https://www.amazon.com/gp/product/1452241511/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1452241511&linkId=56d2292f96b538408d945de313913398)***
 Heuer, Richards; Pherson, Randolph
@@ -36,6 +40,8 @@ Stephenson, William
 ***[A Man Called Intrepid](https://www.amazon.com/gp/product/B00V9QVE5O/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00V9QVE5O&linkId=7f90873fad99840160b867783a624962)***
 Stevenson, William
 
+The U.S. didn't rush headlong into WWII, it needed a push (a couple of them). Stevenson was one of those with the biggest hands and the greatest force.
+
 ***[The Billion Dollar Spy](https://www.amazon.com/gp/product/0345805976/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345805976&linkId=c88b2a76e30238401fc3bab3955551a7)***
 Hoffman, David
 
@@ -50,6 +56,8 @@ Johnson, Thomas
 ***[Between Silk and Cyanide](https://www.amazon.com/gp/product/068486780X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=068486780X&linkId=606ae59c46f5eafc9cbaaa81ae617ad3)***
 Marks, Leo
 
+One of the best stories about British WWII cryptographic efforts and the impact it hand - and the real-life prices paid - in the field.
+
 ***[Code Girls](https://www.amazon.com/gp/product/0316352543/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316352543&linkId=95249de8a46e28382715f4cbba61f1cb)***
 Mundy, Liza
 
@@ -59,9 +67,12 @@ Kahn, David
 ***[The Puzzle Palace](https://www.amazon.com/gp/product/0140067485/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140067485&linkId=9bcfcebc87959e7b61832250d5da01c2)***
 Bamford, James
 
+The NSA, decades out of the Washington DC 'closet', is still described as "super secret." This is the book, written by one of its (former) own, that first lifted that veil of secrecy.
+
 ***[Body of Secrets](https://www.amazon.com/gp/product/0385499086/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385499086&linkId=20720aa840b0e21afd4059c2e00b7f42)***
 Bamford, James
 
+A solid update to The Puzzle Palace.
 
 # Counterintelligence
 
