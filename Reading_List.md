@@ -3,11 +3,15 @@
 ***[Fair Play](https://www.amazon.com/gp/product/1597971537/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1597971537&linkId=29596fcddc7ca7bc8988ee8d39f8c110)***
 Olson, James
 
+You've seen movies: spying is sexy stuff. Actually, it can be, but like any risky proposition, the work come with a lot of mental, emotional, and ethical baggage. Get a better and balanced understanding of what its like to actually do the work when the rules are not clear-cut and the problems grave.
+
 ***[The Secret World](https://www.amazon.com/gp/product/0300248296/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0300248296&linkId=6dc7ea9379157f67311b45871b4b02a7)***
 Andrew, Christoer
 
 ***[The Sword and the Shield](https://www.amazon.com/gp/product/0465003125/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465003125&linkCode=as2&tag=hafofthespe-20&linkId=d5d697d8e697fce2f9d1c45b82734884)***
 Mitrokhin, Vasili
+
+The holy grail of intelligence collection is the work of the adversary in their own words. What they think and say when they're absolutely, positively sure the other side will never know what is being discussed...until a trusted insider makes off with all of that information. 
 
 # Skills
 
@@ -37,6 +41,8 @@ Clark
 ***[Spymistress](https://www.amazon.com/gp/product/1611452317/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1611452317&linkId=6197b075e821ef3b30931d5cf4b6d34d)***
 Stephenson, William
 
+Bond, James Bond is a stylized (often times laughable) version of what life is like on the front lines of human intelligence. It is important to remember that success in the field has little to do with your gender and everything to do with your wits, will, and intestinal fortitude.
+
 ***[A Man Called Intrepid](https://www.amazon.com/gp/product/B00V9QVE5O/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00V9QVE5O&linkId=7f90873fad99840160b867783a624962)***
 Stevenson, William
 
@@ -45,10 +51,14 @@ The U.S. didn't rush headlong into WWII, it needed a push (a couple of them). St
 ***[The Billion Dollar Spy](https://www.amazon.com/gp/product/0345805976/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345805976&linkId=c88b2a76e30238401fc3bab3955551a7)***
 Hoffman, David
 
+Deciding to become an agent of a foreign power does not come easy. All too often there is a price to be paid, and in this case it was the ultimate price. The value of that effort, that initial decision is technically calculable but in the scheme of things, a priceless sacrifice we cannot hope to repay.
+
 # SIGINT
 
 ***[Code Warriors](https://www.amazon.com/gp/product/0385352662/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385352662&linkId=212519cc4b0278709fea545c31e1b9bb)***
 Budiansky, Stephen
+
+For those new to the field, a great and accessible history of the birth, growth, and successes of the world's premier SIGINT organization. Far from a hagiography, it provides a balanced view of the problems that inevitably arise in a hide-bound institution facing radical change, and the mistakes that were made along the way.
 
 ***[American Cryptology During the Cold War]()***
 Johnson, Thomas
@@ -60,6 +70,8 @@ One of the best stories about British WWII cryptographic efforts and the impact 
 
 ***[Code Girls](https://www.amazon.com/gp/product/0316352543/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316352543&linkId=95249de8a46e28382715f4cbba61f1cb)***
 Mundy, Liza
+
+Today in technology the problem (*a* problem) is how to get more women into the field. Back in the day a great deal of technological work carried out in the name of national security was done almost exclusively - or perhaps more accurately most extensively - by women. The practical definition of a *computer* or one who computes was a "code girl" or her equivalent in other disciplines. Women in STEM? Meet their OGs.
 
 ***[The Code Breakers](https://www.amazon.com/gp/product/0684831309/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684831309&linkId=14a437184ddf32fea222e1b468e64807)***
 Kahn, David
@@ -84,8 +96,12 @@ A great primer on the subject by someone who, while not there at the beginning, 
 ***[Operation Solo](https://www.amazon.com/gp/product/1621572943/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1621572943&linkId=0d7e9d658f36503aeeb694725f7d1290)***
 Barron, John
 
+Betrayal is a tough pill to swallow, but if looked at objectively the most instructive way to learn about the opposition and what is and isn't working for your own service. It helps that in this case things worked to our favor, because if it had turned out the other way around it would have been devastating.
+
 ***[Molehunt: The Secret Search for Traitors that Shattered the CIA](https://www.amazon.com/gp/product/0394585143/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0394585143&linkId=709013482a0249829a7f64b24f55bab7)***
 Wise, David
+
+Counterintelligence has been defined as a "wilderness of mirrors," and in no case was this better illustrated than the wilds into which the CIA's CI chief was led. A rigorous CI effort is invaluable, but carelessness and a lack of focus can turn it into a devastaing witch hunt.
 
 ***[Traitors Among Us](https://www.amazon.com/gp/product/0156011174/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156011174&linkId=8ee4059c934cd89a946adda07bfcc40d)***
 Herrington, Stuart
@@ -125,14 +141,20 @@ Bearden, Milton; Risen, James
 ***[True Believer](https://www.amazon.com/gp/product/1591141001/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1591141001&linkId=41c01a23b29266a409f19e01c5861b57)***
 Carmichael, Scott
 
+The best spies are those who become spies because of ideology, and you would be hard pressed to find a better example than Ana Montes. The tale is even more exciting on a personal level as your editor was lucky enough to work next to one of those who sounded the alarm on her early one, and helped bring her case to a successful close.
+
 ***[KGB](https://www.amazon.com/gp/product/B00HUC3GTI/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00HUC3GTI&linkId=baec35e67ca4350787015887bede58d7)***
 Andrew, Christopher; Gordievsky, Oleg
 
 ***[Man Without a Face](https://www.amazon.com/gp/product/1891620126/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1891620126&linkId=7e8ce44d6f7451e6d2b47ff0307ee4ca)***
 Wolf, Markus, McElvoy, Anne
 
+Cold War espionage does not want for epic tales and outsized personalities, but you would be hard pressed to name someone who fit the bill so many ways as the head of the former East German *Stasi* intelligence service. As illustrative as the action associated with such a skilled (and feared) service, so too are the lessons learned in the aftermath of the fall of the Berlin Wall and how people react when their *raison d'etre* not only no longer exists, but is now considered a damnable offense. 
+
 ***[Spymaster](https://www.amazon.com/gp/product/0465014453/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0465014453&linkId=29a850e8a54b6f49537f7d07bdf7caa5)***
 Kalugin, Oleg
 
 ***[Cold Warrior](https://www.amazon.com/gp/product/0671778803/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671778803&linkId=4b2c4bbc22b178dbe360c95311a0fbcd)***
 Mangold, Tom
+
+James Jesus Angleton was the head of CI at the CIA for 20 years. His successes up until and into the early days of that portion of his career were why he was able to accomplish what he did; and why he was allowed to do the damage he did. What happens when the job of navigating the wilderness of mirros becomes one of trying (and failing) to find your way out?
