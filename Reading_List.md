@@ -1,12 +1,14 @@
 # Foundational (background)
 
+***[The Secret World](https://www.amazon.com/gp/product/0300248296/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0300248296&linkId=6dc7ea9379157f67311b45871b4b02a7)***
+Andrew, Christoer
+
+Whether you're new to the field or your introduction to it glossed over it, your knowledge of the space cannot help but be better informed and your practice more well rounded, by reading what is arguably the best history of intelligence.
+
 ***[Fair Play](https://www.amazon.com/gp/product/1597971537/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1597971537&linkId=29596fcddc7ca7bc8988ee8d39f8c110)***
 Olson, James
 
 You've seen movies: spying is sexy stuff. Actually, it can be, but like any risky proposition, the work come with a lot of mental, emotional, and ethical baggage. Get a better and balanced understanding of what its like to actually do the work when the rules are not clear-cut and the problems grave.
-
-***[The Secret World](https://www.amazon.com/gp/product/0300248296/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0300248296&linkId=6dc7ea9379157f67311b45871b4b02a7)***
-Andrew, Christoer
 
 ***[The Sword and the Shield](https://www.amazon.com/gp/product/0465003125/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465003125&linkCode=as2&tag=hafofthespe-20&linkId=d5d697d8e697fce2f9d1c45b82734884)***
 Mitrokhin, Vasili
@@ -20,18 +22,20 @@ Jones, Morgan
 
 If you can only get one book to teach you how to think like an analyst and perform core analytic functions, it should be this one. It isn't an "intelligence" book *per se* but the techniques would be familiar to anyone who has received formal intelligence training.
 
+***[Structured Analytic Techniques for Intelligence Analysis](https://www.amazon.com/gp/product/1452241511/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1452241511&linkId=56d2292f96b538408d945de313913398)***
+Heuer, Richards; Pherson, Randolph
+
+A great resource for those who are starting out, and those who need a refresher. Every analyst in the IC goes through a 'boot camp' of sorts to acquire the same skills you'll pick up in the text. More accessible than works like Clark's, which are really for those with some seasoning under their belts. More specific than Morgan, which can be applied to just about any problem, not just intelligence ones.
+
 ***[Intelligence Analysis: A Target Centric Approach](https://www.amazon.com/gp/product/154436914X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=154436914X&linkId=327492438b72b861c36c4595fca8c0f6)***
 Clark
 
-Excellent text on applying analytic skills and methods against adversaries and analytic problems.
+Excellent text on applying analytic skills and methods against both discrete adversaries and broader analytic problems.
 
 ***[Intelligence Analysis: Estimation and Prediction](https://www.amazon.com/gp/product/1561673072/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1561673072&linkId=5b5b2694773183c3b798a97fbf9f49c6)***
 Clark
 
 The go-to text on the practices most associate with "intelligence" work; trying to determine what's going to happen in the future. A solid grounding in the techniques used to develop well-reasoned and justifiable forecasts.
-
-***[Structured Analytic Techniques for Intelligence Analysis](https://www.amazon.com/gp/product/1452241511/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1452241511&linkId=56d2292f96b538408d945de313913398)***
-Heuer, Richards; Pherson, Randolph
 
 ***[Deception: Counterdeception and Counterintelligence](https://www.amazon.com/gp/product/1506375235/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1506375235&linkId=95c0209c2d8a07ad135bed23a32fa81c)***
 Clark
@@ -76,10 +80,12 @@ Today in technology the problem (*a* problem) is how to get more women into the 
 ***[The Code Breakers](https://www.amazon.com/gp/product/0684831309/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684831309&linkId=14a437184ddf32fea222e1b468e64807)***
 Kahn, David
 
+Less an emphasis on NSA and its counterparts around the world, and much more a history of cryptography and the role it has played in political/military events throughout the ages. 
+
 ***[The Puzzle Palace](https://www.amazon.com/gp/product/0140067485/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0140067485&linkId=9bcfcebc87959e7b61832250d5da01c2)***
 Bamford, James
 
-The NSA, decades out of the Washington DC 'closet', is still described as "super secret." This is the book, written by one of its (former) own, that first lifted that veil of secrecy.
+The NSA, decades out of the Washington DC 'closet', is still described as "super secret." This is the book, written by one of its (former) own, that first lifted that veil of secrecy. A grundbreaking and somewhat scandelous work when it came out, it remains one of the best sources about the organizations and its inner workings during the peak of the cold war and, arguably, its power until the "age of information" began.
 
 ***[Body of Secrets](https://www.amazon.com/gp/product/0385499086/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385499086&linkId=20720aa840b0e21afd4059c2e00b7f42)***
 Bamford, James
@@ -106,8 +112,12 @@ Counterintelligence has been defined as a "wilderness of mirrors," and in no cas
 ***[Traitors Among Us](https://www.amazon.com/gp/product/0156011174/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0156011174&linkId=8ee4059c934cd89a946adda07bfcc40d)***
 Herrington, Stuart
 
+A nice compendium of case histories from a career CI officer in the U.S. Army. 
+
 ***[Cassidy’s Run](https://www.amazon.com/gp/product/0812992636/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812992636&linkId=dd2e292b2611df1e4a15fd78a82a02c3)***
 Wise, David
+
+Rarely are real-life intelligence operations as glamorous and exciting as what is found in fiction. Cassidy's Run demonstrates that that's not always the case, and that sometimes fiction would be hard pressed to beat the real thing.
 
 ***[Capturing Johnathan Pollard](https://www.amazon.com/gp/product/B00EGWFKBM/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EGWFKBM&linkId=d21e0c5a7e4f1cb499e81116ca8f87da)***
 Olive, Ronald
