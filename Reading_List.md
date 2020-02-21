@@ -57,15 +57,17 @@ Hoffman, David
 
 Deciding to become an agent of a foreign power does not come easy. All too often there is a price to be paid, and in this case it was the ultimate price. The value of that effort, that initial decision is technically calculable but in the scheme of things, a priceless sacrifice we cannot hope to repay.
 
+***[The Moscow Rules](https://www.amazon.com/gp/product/1541762193/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1541762193&linkId=72e3a42b76a4e17f3c4248ba68847588)***
+Mendez, Antonio
+
+The tactics and procedures that allowed CIA officers to operate successfully in Moscow: at the time (and probably still) one of the most challenging intelligence assignments in the world.
+
 # SIGINT
 
 ***[Code Warriors](https://www.amazon.com/gp/product/0385352662/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385352662&linkId=212519cc4b0278709fea545c31e1b9bb)***
 Budiansky, Stephen
 
 For those new to the field, a great and accessible history of the birth, growth, and successes of the world's premier SIGINT organization. Far from a hagiography, it provides a balanced view of the problems that inevitably arise in a hide-bound institution facing radical change, and the mistakes that were made along the way.
-
-***[American Cryptology During the Cold War]()***
-Johnson, Thomas
 
 ***[Between Silk and Cyanide](https://www.amazon.com/gp/product/068486780X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=068486780X&linkId=606ae59c46f5eafc9cbaaa81ae617ad3)***
 Marks, Leo
@@ -127,14 +129,17 @@ The damage Pollard did to the country was significant, this despite the fact tha
 ***[I Pledge Allegiance](https://www.amazon.com/gp/product/0671626140/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671626140&linkId=d5d475c0d97c923bf74524ea52c8009c)***
 Blum, Howard
 
+Arguably the most comprehensive telling of the tale of the Walker family, who perpetrated some of the most traitorous actions against the U.S., and the family member who brought the whole thing crashing down.
+
 ***[Confessions of a Spy](https://www.amazon.com/gp/product/039914188X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=039914188X&linkId=909c1dc5838a1873a71039a5210e23fe)***
 Early, Pete
+
+The story of former CIA CI officer Aldrich Ames. Extensive inteviews with those involved with the case, as well as Ames himself.
 
 ***[The Spy Who Got Away](https://www.amazon.com/gp/product/039456281X/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=039456281X&linkId=29957b6fbfdf302baa206d2d76a9ec1a)***
 Wise, David
 
-***[The Spy in the Russian Club](https://www.amazon.com/gp/product/0684191164/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684191164&linkId=90adcf7a75cef5034716a20296fe2c77)***
-Kessler, Ronald
+Edward Lee Howard was recruited into the CIA, and his talent was such that his first assignment was the most challenging one available: Moscow. In no time he also became the first CIA officer to defect to the Soviet Union. Includes interviews with Howard himself.
 
 ***[Spy](https://www.amazon.com/gp/product/0375758941/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375758941&linkId=2dcd8fe3c3d6cad55c62b189cac4b7c2)***
 Wise, David
@@ -142,8 +147,7 @@ Wise, David
 ***[Tiger Trap](https://www.amazon.com/gp/product/0547553102/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0547553102&linkId=1c5b0b46812652bc9adfa523eef1dd15)***
 Wise, David
 
-***[The Moscow Rules](https://www.amazon.com/gp/product/1541762193/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1541762193&linkId=72e3a42b76a4e17f3c4248ba68847588)***
-Mendez, Antonio
+Espionage literature can seem like "Russia, Russia, Russia" all day long, but China is an equally challenging adversary, especially in the information age. A both meta-coverage of the Chinese threat, as well as coverage of the Katrina Leung case among others.
 
 ***[The Main Enemy](https://www.amazon.com/gp/product/0345472500/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345472500&linkId=2660cca577b82cbf9bacd82910569b6a)***
 Bearden, Milton; Risen, James
@@ -156,6 +160,8 @@ The best spies are those who become spies because of ideology, and you would be 
 ***[KGB](https://www.amazon.com/gp/product/B00HUC3GTI/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00HUC3GTI&linkId=baec35e67ca4350787015887bede58d7)***
 Andrew, Christopher; Gordievsky, Oleg
 
+One of the best histories of the KGB, by the same team that published The Sword and the Shield.
+
 ***[Man Without a Face](https://www.amazon.com/gp/product/1891620126/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1891620126&linkId=7e8ce44d6f7451e6d2b47ff0307ee4ca)***
 Wolf, Markus, McElvoy, Anne
 
@@ -163,6 +169,8 @@ Cold War espionage does not want for epic tales and outsized personalities, but 
 
 ***[Spymaster](https://www.amazon.com/gp/product/0465014453/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0465014453&linkId=29a850e8a54b6f49537f7d07bdf7caa5)***
 Kalugin, Oleg
+
+A compelling tale of what its like to work against the U.S., and how his former agency operates, from one of our most capable and skilled adversaries.
 
 ***[Cold Warrior](https://www.amazon.com/gp/product/0671778803/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671778803&linkId=4b2c4bbc22b178dbe360c95311a0fbcd)***
 Mangold, Tom
