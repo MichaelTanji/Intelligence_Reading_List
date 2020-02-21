@@ -144,6 +144,8 @@ Edward Lee Howard was recruited into the CIA, and his talent was such that his f
 ***[Spy](https://www.amazon.com/gp/product/0375758941/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0375758941&linkId=2dcd8fe3c3d6cad55c62b189cac4b7c2)***
 Wise, David
 
+The story of how FBI Special Agent Robert Hanssen was able to betray his country for so long and why.
+
 ***[Tiger Trap](https://www.amazon.com/gp/product/0547553102/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0547553102&linkId=1c5b0b46812652bc9adfa523eef1dd15)***
 Wise, David
 
@@ -151,6 +153,8 @@ Espionage literature can seem like "Russia, Russia, Russia" all day long, but Ch
 
 ***[The Main Enemy](https://www.amazon.com/gp/product/0345472500/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0345472500&linkId=2660cca577b82cbf9bacd82910569b6a)***
 Bearden, Milton; Risen, James
+
+The real life, and deadly serious, version of 'Spy vs. Spy' as told by those who fought the battles on both sides.
 
 ***[True Believer](https://www.amazon.com/gp/product/1591141001/ref=as_li_tl?ie=UTF8&tag=hafofthespe-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1591141001&linkId=41c01a23b29266a409f19e01c5861b57)***
 Carmichael, Scott
