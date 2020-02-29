@@ -183,10 +183,8 @@ James Jesus Angleton was the head of CI at the CIA for 20 years. His successes u
 
 ### A Word on Intelligence Fiction
 
-Since starting the list, I've got a fair amount of feedback requesting my take on intelligence fiction. Along with its brother - fiction about covert action and combat arms - there is no shortage of volumes to peruse in your copious amounts of free time. But who to read? 
+Since starting the list, I've got a fair amount of feedback requesting my take on intelligence fiction. Along with its brother - fiction about covert action - there is no shortage of volumes to peruse in your copious amounts of free time. But who to read? 
 
 LeCarre is hard to beat. Arguably the master of the genre, his work no doubt informed by his own time as a British intelligence officer. If I have a nit to pick its that his work tends to be a bit of a tome. If you've got the time and are willing to put in the effort you can't go wrong.
-
-If you're willing to suspend a healthy amount of disbelief, and long for something more fast paced, the works of Ryan, Thor, et al are equally entertaining. I set the works of Child apart because while not exclusively in the intelligence genre, his stories incorporate elements of the field in an intelligent way, adding to the entertainment value.
 
 For my money though, and not just because *'merica,* you can't beat the work of Charles McCarry. Like Carre, McCarry was himself an intelligence officer. If you've been through any sort of training yourself you'll recognize old operational histories. If you're a student of the field you'll recognize founding personalities and anecdotes. But more than all that, a McCarry work is an emotional page turner. You finish wanting it to be real, not because of a fantasy you imagine living out yourself, but because of the sacrifice the characters make in furtherance of something greater than themselves. 
